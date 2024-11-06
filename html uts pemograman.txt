@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daftar Hewan Kurban</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Daftar Hewan Kurban</h1>
+    </header>
+    <section class="content">
+        <div class="animal-card">
+            <h2>Sapi</h2>
+            <p>Harga: Rp10.000.000</p>
+        </div>
+        <div class="animal-card">
+            <h2>Kambing</h2>
+            <p>Harga: Rp3.000.000</p>
+        </div>
+        <!-- Tambahkan kartu hewan kurban lainnya -->
+    </section>
+</body>
+</html>
